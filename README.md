@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 # Goalify-MERN-App
 
 #This is an app where we can set our goals and has been created using MERN stack
@@ -14,7 +14,4 @@ npm install
 # Frontend deps
 cd frontend
 npm install
-Run Server
-=======
-
->>>>>>> origin/main
+npm run dev

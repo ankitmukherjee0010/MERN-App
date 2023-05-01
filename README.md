@@ -2,19 +2,20 @@
 
 # Goalify-MERN-App
 
-#This is an app where we can set our goals and has been created using MERN stack
+# This is an app where we can set our goals and has been created using MERN stack
 
-#Usage
+# Usage
 Rename the .envexample to .env and add your MONGO_URI
 
-#Install dependencies
-# Backend deps
+# Install the dependencies
+# Backend dependencies
 npm install
 
-# Frontend deps
+# Frontend dependencies
 cd frontend    
 npm install  
 
-Run Server  
+# Run Server  
 npm run server  
+
 

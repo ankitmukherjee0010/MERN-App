@@ -14,4 +14,5 @@ npm install
 # Frontend deps
 cd frontend
 npm install
-npm run dev
+
+

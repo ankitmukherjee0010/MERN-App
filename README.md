@@ -13,6 +13,8 @@ npm install
 
 # Frontend deps
 cd frontend    
-npm install
+npm install  
 
+Run Server  
+npm run server  
 

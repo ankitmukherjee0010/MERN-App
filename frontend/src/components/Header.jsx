@@ -18,7 +18,7 @@ const onLogout = () => {
   return (
     <header className='header'>
         <div className='logo'>
-         <Link to='/'>GoalSetter</Link>
+         <Link to='/'>Goalify</Link>
         </div>
         <ul>
            {user ? (<li>

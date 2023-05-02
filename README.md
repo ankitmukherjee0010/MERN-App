@@ -1,6 +1,6 @@
 
 
-# Goalify-MERN-App
+# Goalify-App
 
 # This is an app where we can set our goals and has been created using MERN stack
 

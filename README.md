@@ -2,8 +2,7 @@
 
 # Goalify-App
 
-# This is an app where we can set our goals and has been created using MERN stack
-
+# This App is a full-stack web application built using modern web technologies. The frontend is developed with React and Redux, providing a responsive and interactive user interface. The backend is powered by Node.js with Express, enabling fast and efficient server-side processing. The application data is stored in a MongoDB database, providing a scalable and flexible data storage solution.
 # Usage
 Add a .env file and add your MONGO_URI
 
